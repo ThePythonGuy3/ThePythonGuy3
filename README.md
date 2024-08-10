@@ -2,7 +2,6 @@
 
 An [AvantTeam](https://github.com/AvantTeam) member, loves programming, specially video games.
 
-Now developing a rogue-lite called [Wastelands](https://github.com/AvantTeam/Wastelands). :crossed_swords:
 <details>
   <summary>Github Stats</summary>
 
