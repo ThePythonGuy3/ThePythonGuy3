@@ -1,6 +1,6 @@
 # About Me
 
-An [AvantTeam](https://github.com/AvantTeam) member, loves programming, specially video games.
+An [AvantTeam](https://github.com/AvantTeam) member, loves programming, especially video games.
 
 <details>
   <summary>Github Stats</summary>
